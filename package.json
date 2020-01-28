@@ -1,0 +1,7 @@
+{
+  "name": "messenger-clone",
+  "private": true,
+  "workspaces": [
+    "services/*"
+  ]
+}
