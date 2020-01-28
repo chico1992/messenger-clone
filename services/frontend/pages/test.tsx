@@ -1,3 +1,5 @@
-export default () => {
-  return <h1>Test</h1>;
+import React from "react";
+
+export default (): JSX.Element => {
+    return <h1>Test</h1>;
 };
